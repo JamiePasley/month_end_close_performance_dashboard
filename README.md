@@ -1,2 +1,26 @@
-# month_end_close_performance_dashboard
-Interactive Power BI dashboard analyzing month-end close performance across accounting functions. Tracks close duration trends, average delays, on-time completion rates, and operational bottlenecks using KPI cards, DAX measures, slicers, conditional formatting, and drill-down task analysis.
+# Month-End Close Performance Dashboard
+
+## Overview
+This Power BI dashboard analyzes month-end close performance across accounting task categories, owners, and reporting periods.
+
+## Key Metrics
+- Average days to close
+- Average days late
+- Maximum delay duration
+- On-time completion rate
+
+## Features
+- KPI cards
+- Interactive slicers
+- Heatmap matrix
+- Drill-down task detail analysis
+- Conditional formatting
+- DAX measures
+
+## Tools Used
+- Power BI
+- DAX
+- Excel
+
+## Business Objective
+Identify bottlenecks and delay patterns in the month-end close process to improve close efficiency and accountability.
